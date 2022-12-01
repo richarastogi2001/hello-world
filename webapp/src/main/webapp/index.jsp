@@ -8,8 +8,8 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter mobile</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <label for="Mobile"><b>Enter Mobile</b></label>
+    <input type="text" placeholder="Enter Mobile number" name="Mobile" id="Mobile" required>
     <br>
 
     <label for="email"><b>Enter Email</b></label>
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou </h1>
+   <h1> Thank you for learning</h1>
 
   
 </form>
